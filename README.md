@@ -1,12 +1,10 @@
 
 ### Hey there, I'm Abdalhafez-Sayeh - aka [Devo][linkedin]  <img alit="Hello" width="30px" src="https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif" />
-<br/>
 
 ### Languages and Tools:
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Spring_Boot-informational?style=flat&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logoColor=white&color=2bbc8a)
@@ -18,11 +16,9 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logoColor=white&color=2bbc8a)
+
 
 ---
-
-
 
 ## 
 <div align="left">
@@ -43,9 +39,7 @@
   </a>
 </div>
 
-
 <br clear="both">
-
 ![Snake animation](https://github.com/slick-codes/slick-codes/blob/output/github-contribution-grid-snake.svg)
 
 
