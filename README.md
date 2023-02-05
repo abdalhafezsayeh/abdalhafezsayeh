@@ -40,6 +40,8 @@
 </div>
 
 <br clear="both">
+
+
 ![Snake animation](https://github.com/slick-codes/slick-codes/blob/output/github-contribution-grid-snake.svg)
 
 
