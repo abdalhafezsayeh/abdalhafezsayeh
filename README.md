@@ -1,14 +1,28 @@
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Welcome+To+In+Profile.+:)"></div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Welcome+To+In+Profile+I'm Abdalhafez-Sayeh.+:)">
+</div>
 <img
   src="https://komarev.com/ghpvc/?username=abdalhafezsayeh&label=Profile%20views&color=0e75b6&style=flat"
-  alt="prowebdev119"
+  alt="abdalhafez_sayeh"
 />
 ### Hey there, I'm Abdalhafez-Sayeh - aka [Devo][linkedin]  <img alit="Hello" width="30px" src="https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif" />
 ### [My Personal Website][web]
-### Languages and Tools:
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logoColor=white&color=2bbc8a)
+<h3>Here are my skills that I code with.</h3>
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FF2D20?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+</p>
+
+<!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logoColor=white&color=2bbc8a)
@@ -20,7 +34,7 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a) -->
 ## 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
