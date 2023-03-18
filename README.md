@@ -44,8 +44,9 @@
 
 <br clear="both">
 
+<div align="center" > 
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" height="200" alt="stats graph"  />
-
+</div>
 
 ![Snake animation](https://github.com/slick-codes/slick-codes/blob/output/github-contribution-grid-snake.svg)
 
