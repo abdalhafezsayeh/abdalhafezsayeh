@@ -16,16 +16,19 @@
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FF2D20?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-764ABC?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="ReduxToolkit" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=ReduxToolkit&logoColor=white" />
+  <img alt="Toolkit" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Toolkit&logoColor=white" />
 </p>
 
-<!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logoColor=white&color=2bbc8a)
@@ -37,7 +40,7 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ## 
 <div align="left">
