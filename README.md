@@ -28,9 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
 </div>
 
-<div align="left" style="padding-top:2rem display:inline-block" > 
+<div align="center" style="padding-top:2rem display:inline-block" > 
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" height="180" alt="stats graph"  />
-</div>
+
 
 ### Connect with me:
 <div align="cebter">
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+</div>
 
 <br clear="both">
 
