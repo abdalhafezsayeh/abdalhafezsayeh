@@ -24,7 +24,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-764ABC?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="ReactQuery" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=ReduxToolkit&logoColor=white" />
+  <img alt="ReactQuery" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=ReactQuery&logoColor=white" />
 </p>
 
 <!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logoColor=white&color=2bbc8a) -->
