@@ -29,8 +29,8 @@
 </div>
 
 
-<div align="left" > 
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" height="150" alt="stats graph"  />
+<div align="left" style="padding-top:1em;" > 
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" height="180" alt="stats graph"  />
 </div>
 
 ### Connect with me:
