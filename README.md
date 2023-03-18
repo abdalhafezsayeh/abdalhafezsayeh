@@ -2,7 +2,7 @@
 ### Hey there, I'm Abdalhafez-Sayeh - aka [Devo][linkedin]  <img alit="Hello" width="30px" src="https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif" />
 ### [My Personal Website][web]
 ### Languages and Tools:
-
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Welcome+to+Top+eveloper.+:)"></div>
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logoColor=white&color=2bbc8a)
