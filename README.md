@@ -1,12 +1,15 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Welcome+To+In+Profile+I'm Abdalhafez-Sayeh.+:)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Welcome+To+In+Profile-I'm Abdalhafez-Sayeh.+:)">
 </div>
+
 <img
   src="https://komarev.com/ghpvc/?username=abdalhafezsayeh&label=Profile%20views&color=0e75b6&style=flat"
   alt="abdalhafez_sayeh"
 />
+
 ### Hey there, I'm Abdalhafez-Sayeh - aka [Devo][linkedin]  <img alit="Hello" width="30px" src="https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif" />
+
 ### [My Personal Website][web]
 
 <h3>Here are my skills that I code with.</h3>
@@ -35,6 +38,7 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a) -->
+
 ## 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -63,7 +67,7 @@
 <br clear="both">
 
 <div align="center" style="padding-top:2rem margin-top:10px" > 
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" height="200" alt="stats graph"  />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" alt="stats graph"  />
 </div>
 
 ![Snake animation](https://github.com/slick-codes/slick-codes/blob/output/github-contribution-grid-snake.svg)
