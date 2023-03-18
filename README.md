@@ -29,7 +29,9 @@
 </div>
 
 
-
+<div align="right" > 
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" height="150" alt="stats graph"  />
+</div>
 
 ### Connect with me:
 <div align="cebter">
@@ -44,9 +46,7 @@
 
 <br clear="both">
 
-<div align="center" > 
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"  alt="stats graph"  />
-</div>
+
 
 ![Snake animation](https://github.com/slick-codes/slick-codes/blob/output/github-contribution-grid-snake.svg)
 
