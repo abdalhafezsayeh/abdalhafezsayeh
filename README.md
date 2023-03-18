@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-  <img src="[https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&username=slick-codes](https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)" height="150" alt="stats graph"  />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" height="150" alt="stats graph"  />
 
 
 ![Snake animation](https://github.com/slick-codes/slick-codes/blob/output/github-contribution-grid-snake.svg)
