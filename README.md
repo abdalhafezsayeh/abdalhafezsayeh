@@ -29,7 +29,7 @@
 </div>
 
 
-<div align="right" > 
+<div align="left" > 
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" height="150" alt="stats graph"  />
 </div>
 
