@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Welcome+To+In+Profile.+:)">
 </div>
 
-<img
-  src="https://komarev.com/ghpvc/?username=abdalhafezsayeh&label=Profile%20views&color=0e75b6&style=flat"
-  alt="abdalhafez_sayeh"
-/>
+
 
 ### Hey there, I'm Abdalhafez-Sayeh - aka [Devo][linkedin]  <img alit="Hello" width="30px" src="https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif" />
 
@@ -58,7 +55,7 @@
 <div align="cebter">
     <a href="mailto:abdalhafezsayeh1997@gmail.com
 " target="_blank">
-<!--     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/abdalhafez-sayeh-4b9277154/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
