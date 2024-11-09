@@ -71,4 +71,4 @@
 <!-- </div> -->
 
 [linkedin]: https://www.linkedin.com/in/abdalhafez-sayeh-4b9277154/
-[web]: https://react-portfolio-nine-puce.vercel.app/
+[web]: [https://react-portfolio-nine-puce.vercel.app/](https://abdalhafez-devo.vercel.app/)
