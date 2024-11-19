@@ -8,9 +8,14 @@
   alt="abdalhafez_sayeh"
 />
 
-### Hey there, I'm Abdalhafez-Sayeh - aka [Devo][linkedin]  <img alit="Hello" width="30px" src="https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif" />
-
+### Hey there, I'm Abdalhafez-Sayeh - aka [Devo][linkedin]  <img alt="Hello" width="30px" src="https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif" />
+I am a software engineer specializing in front-end development.
 ### [My Personal Website][web]
+
+
+
+
+
 
 <h3>Here are my skills that I code with.</h3>
 <p>
